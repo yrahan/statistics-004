@@ -2,8 +2,8 @@ Week 2:
 
 P(A or B) = P(A) + P(B) - P(A and B)
 
-A, B disjoint <=> P(A and B) = 0
-A, B independent <=> P(A|B)  = P(A)
+A, B independent  <=> P(A|B)  = P(A)
+A, B disjoint     <=> P(A and B) = 0
 
 Bayes' Theorem:
 P(A | B) = P(A anb B) / P(B)
