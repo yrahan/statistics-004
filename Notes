@@ -7,3 +7,9 @@ A, B disjoint     <=> P(A and B) = 0
 
 Bayes' Theorem:
 P(A | B) = P(A anb B) / P(B)
+
+Binomial distribution
+mean  = np
+sd    = sqrt(np * (1 - p))
+
+
