@@ -12,4 +12,4 @@ Binomial distribution
 mean  = np
 sd    = sqrt(np * (1 - p))
 Sucess-failure rule :
-np >= 10 and n(1-p) >= 10  => normal approximation okay for a binomial distribution
+np >= 10 and n(1-p) >= 10  => Binom(n, p) ~ Norm(np, sqrt(np * (1 - p)))
