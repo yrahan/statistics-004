@@ -11,5 +11,5 @@ P(A | B) = P(A anb B) / P(B)
 Binomial distribution
 mean  = np
 sd    = sqrt(np * (1 - p))
-
-
+Sucess-failure rule :
+np >= 10 and n(1-p) >= 10  => normal approximation okay for a binomial distribution
